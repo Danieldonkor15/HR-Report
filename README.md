@@ -55,4 +55,4 @@ For the data Preparation phase, I performed the following task:
    - Employ more poeple from minorites back ground espercially Hispanic.
    - Employ more men in order to balance both genders
    - Employ more younger poeple as the youngest is 31 years old.
-   - Make the salaries between genders in their department more even, depending or hourse worked and level of experience.
+   - Make the salaries between genders in their department more even depending on hours worked and level of experience.
